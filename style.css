@@ -1,0 +1,23 @@
+﻿.jumbotron {
+    background-image:url("lobster2_muted.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+.feature{
+    text-align: center;
+}
+.feature .glyphicon {
+    font-size: 400%;
+}
+.feature .glyphicon-leaf {
+    color: #7ccc61;
+}
+.feature .glyphicon-fast-forward {
+    color: red;
+}
+.feature .glyphicon-flash {
+    color: yellow;
+}
+h2 .glyphicon-usd {
+    font-size: 150%;
+}
