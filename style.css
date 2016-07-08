@@ -48,3 +48,10 @@ h2 .glyphicon-usd {
     border-color: transparent;
     color: #fff !important;
 }
+.container-fluid {
+    text-align: center;
+    color: #990002;
+}
+.spacer1 {
+    margin-top: 100px;
+}
